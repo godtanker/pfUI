@@ -38,6 +38,13 @@ pfUI_locale["deDE"]["stances"] = {
   ['wantBattleBerserkStance'] = "Muss in Kampfhaltung, Berserkerhaltung sein.",
 }
 
+pfUI_locale["deDE"]["rangecheck"] = {
+  ['PALADIN'] = "Heiliges Licht",
+  ['PRIEST'] = "Blitzheilung",
+  ['DRUID'] = "Heilende Berührung",
+  ['SHAMAN'] = "Welle der Heilung",
+}
+
 pfUI_locale["deDE"]["interrupts"] = {
   ["Schildhieb"] = true;
   ["Zuschlagen"] = true;

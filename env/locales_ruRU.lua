@@ -38,6 +38,13 @@ pfUI_locale["ruRU"]["stances"] = {
   ['wantBattleBerserkStance'] = "Необходимо находиться в Боевая стойка, Стойка берсерка.",
 }
 
+pfUI_locale["ruRU"]["rangecheck"] = {
+  ['PALADIN'] = "Свет небес",
+  ['PRIEST'] = "Быстрое исцеление",
+  ['DRUID'] = "Целительное прикосновение",
+  ['SHAMAN'] = "Волна исцеления",
+}
+
 pfUI_locale["ruRU"]["interrupts"] = {
   ["Удар щитом"] = true;
   ["Зуботычина"] = true;

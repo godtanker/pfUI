@@ -38,6 +38,13 @@ pfUI_locale["zhCN"]["stances"] = {
   ['wantBattleBerserkStance'] = "必须在战斗姿态, 狂暴姿态中",
 }
 
+pfUI_locale["zhCN"]["rangecheck"] = {
+  ['PALADIN'] = "圣光术",
+  ['PRIEST'] = "快速治疗",
+  ['DRUID'] = "治疗之触",
+  ['SHAMAN'] = "治疗波",
+}
+
 pfUI_locale["zhCN"]["interrupts"] = {
   ["盾击"] = true;
   ["拳击"] = true;

@@ -38,6 +38,13 @@ pfUI_locale["frFR"]["stances"] = {
   ['wantBattleBerserkStance'] = "Requiert Posture de combat, Posture berserker",
 }
 
+pfUI_locale["frFR"]["rangecheck"] = {
+  ['PALADIN'] = "Lumière sacrée",
+  ['PRIEST'] = "Soins rapides",
+  ['DRUID'] = "Toucher guérisseur",
+  ['SHAMAN'] = "Vague de soins",
+}
+
 pfUI_locale["frFR"]["interrupts"] = {
   ["Coup de bouclier"] = true;
   ["Volée de coups"] = true;
