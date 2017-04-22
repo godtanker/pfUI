@@ -38,6 +38,13 @@ pfUI_locale["koKR"]["stances"] = {
   ['wantBattleBerserkStance'] = "전투 태세 필요, 공폭 태세 필요",
 }
 
+pfUI_locale["koKR"]["rangecheck"] = {
+  ['PALADIN'] = "성스러운 빛",
+  ['PRIEST'] = "순간 치유",
+  ['DRUID'] = "치유의 손길",
+  ['SHAMAN'] = "치유의 물결",
+}
+
 pfUI_locale["koKR"]["interrupts"] = {
   ["방패 가격"] = true;
   ["자루 공격"] = true;
